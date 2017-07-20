@@ -18,7 +18,10 @@ To test how it works, the tests are found in:
 [test-03.ptg](https://github.com/Bart-BK/compiler/blob/master/teste-03.ptg)
 
 To use the compiler, use:
-  ./Lexic teste-01.ptg (where the teste-01.ptg will be your code, who will be analised)
+
+    ./Lexic teste-01.ptg 
+  
+Where the teste-01.ptg will be your code, who will be analised
 
 Author
 ------------------------
